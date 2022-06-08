@@ -7,3 +7,4 @@ All projects made by me with RELATIONAL DATABASE course path.
 2) worldcup project - create and add data into PostgreSQL database with bash scripts. Then query the database for useful statistics also using bash scripts.
 3) Salon Appointment Scheduler - I created an interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon.
 4) Periodic table - I created Bash a script to get information about chemical elements from a periodic table database.
+5) Number Guessing Game - For this project, I used Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information.
